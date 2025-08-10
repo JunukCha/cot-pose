@@ -1,0 +1,1 @@
+huggingface-cli download Jucha/cot-pose/full --local-dir cache/cot-pose/full_pretrained
