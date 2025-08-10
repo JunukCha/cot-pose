@@ -22,7 +22,7 @@ source scripts/download_unipose_ckpts.sh
 
 ### 2.3 CoT-Pose Checkpoints
 ```bash
-source scripts/download_cotpose_ckpts.sh
+source scripts/download_cot_pose_ckpts.sh
 ```
 
 ---
