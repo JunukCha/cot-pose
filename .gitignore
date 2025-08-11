@@ -13,7 +13,6 @@ logs/
 log/
 pretrained_models/
 save_ckpts/
-posegpt/
 posescript/
 
 # Byte-compiled / optimized / DLL files
