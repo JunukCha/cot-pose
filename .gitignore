@@ -13,7 +13,6 @@ logs/
 log/
 pretrained_models/
 save_ckpts/
-posescript/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

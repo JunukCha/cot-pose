@@ -1,0 +1,3 @@
+[submodule "posescript"]
+	path = posescript
+	url = https://github.com/naver/posescript.git
