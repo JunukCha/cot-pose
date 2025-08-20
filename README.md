@@ -1,3 +1,5 @@
+[Paper](https://arxiv.org/abs/2508.07540)
+
 ## 1. Installation
 
 Install all required dependencies with:
