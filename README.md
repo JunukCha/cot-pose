@@ -1,4 +1,8 @@
-[Paper](https://arxiv.org/abs/2508.07540)
+## CoT-Pose: Chain-of-Thought Reasoning for 3D Pose Generation from Abstract Prompts (ICCVW'25)
+
+![pipeline](https://github.com/user-attachments/assets/bc649325-aac3-4fd0-b4ee-ce7b11f3b8bf)
+
+[Paper(Arxiv)](https://arxiv.org/abs/2508.07540)
 
 ## 1. Installation
 
