@@ -2,7 +2,7 @@
 
 ![pipeline](https://github.com/user-attachments/assets/bc649325-aac3-4fd0-b4ee-ce7b11f3b8bf)
 
-[Paper(Arxiv)](https://arxiv.org/abs/2508.07540)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.07540-b31b1b.svg)](https://arxiv.org/abs/2508.07540)
 
 ## 1. Installation
 
